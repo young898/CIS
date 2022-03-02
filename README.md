@@ -1,1 +1,1 @@
-# CIS
+# Chinese-IS
